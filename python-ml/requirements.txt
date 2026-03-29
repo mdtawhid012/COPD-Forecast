@@ -1,0 +1,33 @@
+# FastAPI backend
+fastapi
+uvicorn
+
+# Data validation
+pydantic
+
+# Machine learning
+torch
+torchvision
+xgboost
+scikit-learn
+joblib
+
+# Explainable AI
+shap
+captum
+
+# Image processing
+opencv-python
+Pillow
+
+# Scientific computing
+numpy
+pandas
+matplotlib
+
+# File handling
+python-multipart
+
+# Optional (for dataset handling / experiments)
+kagglehub
+tqdm
